@@ -11,7 +11,6 @@ Hola, soy **Daniel Hidalgo**. Me apasiona construir soluciones eficientes y auto
 <div align="left">
 
 ### 💜 Lenguajes Core
-### 💜 Lenguajes Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2b0057)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000000)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=2b0057)
