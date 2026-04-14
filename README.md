@@ -25,6 +25,12 @@ Hola, soy **Daniel Hidalgo**. Me apasiona descubrir cada dia lo que la tecnolog√
 
 ---
 
-![dhidalgo723's Stats](https://github-readme-stats.vercel.app/api?username=dhidalgo723&theme=vision-friendlydark&show_icons=true&hide_border=true&count_private=true)
-![dhidalgo723's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhidalgo723&theme=vision-friendly-dark&hide_border=true)
-![dhidalgo723's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhidalgo723&theme=vision-friendlydark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dhidalgo723&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=a855f7)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhidalgo723&hide_border=true&background=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=a855f7&currStreakLabel=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhidalgo723&show_icons=true&hide_border=true&layout=compact&bg_color=000000&title_color=a855f7&text_color=ffffff)
+
+</div>
