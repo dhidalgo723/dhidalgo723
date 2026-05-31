@@ -1,8 +1,8 @@
 ## 🧬 Sobre mí
-Hola, soy **Daniel Hidalgo**. Me apasiona descubrir cada dia lo que la tecnología nos ofrece y explora. Actualmente me enfoco en el ecosistema de **Java** para aplicaciones robustas, **Python** para scripts inteligentes y análisis de datos y **C++**, **C#** y **GDScript** para hobbies y pasatiempos personales.
+Buenas, soy **Daniel Hidalgo**. Me apasiona descubrir cada dia lo que la tecnología nos ofrece y explora. Actualmente me enfoco en el ecosistema de **Java** para aplicaciones robustas, **Python** para scripts inteligentes y análisis de datos y **C++**, **C#** y **GDScript** para hobbies y pasatiempos personales.
 
 * 🔭 **Proyecto actual:** Perfeccionando mi toolkit y manejo personal de datos.
-* ⚡ **Dato curioso:** Siempre intento buscar la forma de mejorar un programa.
+* ⚡ **Dato curioso:** Siempre pienso en como modificar la forma para mejorar un programa.
 
 ---
 
